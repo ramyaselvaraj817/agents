@@ -264,6 +264,3 @@ This project is experimental.
 
 Agents with shell or filesystem access can perform potentially destructive operations. Run the project in an environment where you understand and control the permissions available to the agent.
 
-## 📄 License
-
-Add your chosen license here.
